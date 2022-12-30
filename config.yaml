@@ -1,0 +1,17 @@
+credentials:
+  usernames:
+    wonyoung:
+      email: cliffclimber721@gmail.com
+      name: Wonyoung
+      password: '0721'
+    user1:
+      email: user1@gmail.com
+      name: user1
+      password: '0123' # To be replaced with hashed password
+cookie:
+  expiry_days: 30
+  key: some_signature_key
+  name: some_cookie_name
+preauthorized:
+  emails:
+  - cliffclimber721@gmail.com
